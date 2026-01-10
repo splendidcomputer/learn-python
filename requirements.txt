@@ -1,0 +1,64 @@
+# Core scientific stack
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+
+# Jupyter & dev
+jupyterlab
+notebook
+ipywidgets
+tqdm
+rich
+python-dotenv
+pyyaml
+
+# Visualization & EDA
+plotly
+ydata-profiling
+sweetviz
+
+# Statistics & time series
+statsmodels
+pmdarima
+prophet
+
+# Gradient boosting ML models
+xgboost
+lightgbm
+catboost
+
+# Model explainability
+shap
+
+# File handling & web access
+openpyxl
+xlrd
+requests
+beautifulsoup4
+lxml
+sqlalchemy
+
+# Deep learning
+torch
+torchvision
+torchaudio
+tensorflow
+
+# Data apps & deployment
+streamlit
+fastapi
+uvicorn
+
+# Data engineering
+dask
+polars
+pyarrow
+duckdb
+
+# Data cleaning
+missingno
+janitor
+
